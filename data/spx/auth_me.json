@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "data": {
+    "id": 638597,
+    "login_id": "463500341",
+    "email": null,
+    "email_verified_at": null,
+    "name": "463500341",
+    "name_ascii": "Mina Shehata",
+    "role": "user",
+    "org_unit_id": 14283,
+    "ui_languages": "ar",
+    "can_change_password": false,
+    "status": "active",
+    "debug_mode": false,
+    "content_edit_enabled": false,
+    "is_deleted": false,
+    "last_login": "2026-10-31T11:05:14Z",
+    "created_at": "2026-09-10T06:50:37Z",
+    "updated_at": "2026-10-31T11:05:14Z"
+  }
+}

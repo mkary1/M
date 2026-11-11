@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": {
+    "id": 7,
+    "name": "الثقافة المالية",
+    "subject_type": "financial_literacy",
+    "kind": "normal",
+    "description": "تعرّف على المال والادخار والاستثمار والاقتصاد العالمي!",
+    "language": "ar",
+    "code_language": null,
+    "code_timeout": 10,
+    "status": "active",
+    "chapter_mcq_mode": "fixed_labeled",
+    "course_code": "financial_literacy",
+    "icon_image": "preset:subject-finance",
+    "skills_tooltip": "",
+    "achievements_tooltip": "",
+    "created_at": "2026-09-08T01:24:44Z",
+    "updated_at": "2026-10-29T06:13:27Z",
+    "access_tier": "full",
+    "progress_pct": 1.4925373134328357,
+    "total_items": 134,
+    "completed_items": 2
+  }
+}
