@@ -1,0 +1,275 @@
+{
+  "dom_data": {
+    "body_text": "for SPRIX LEARNING\nPython\n4\n\n463500341\n\n4\n463500341\nالعودة إلى بوابة تعلم البرمجة\nتسجيل الخروج\nالألماس المُكتسب\n15 / 125\n\nعدد الفصول المكتملة\n\n3 / 25 الفصل\nالألماس المُكتسب\n15 / 125\n\nعدد الفصول المكتملة\n\n3 / 25\n\nابدأ\n\nبدء التعلم\n\nجرّب ما تعلمته\n\nافتح المحرر الحر",
+    "diamonds": 15,
+    "completed_chapters": 3,
+    "badges": [
+      "4",
+      "4"
+    ]
+  },
+  "endpoint_tests": {
+    "/api/study/students/me": {
+      "ok": true,
+      "status": 200,
+      "data_type": "dict",
+      "sample": "{'accept_language': 'ar', 'course_code': 'python_short_ar', 'id': '01997bef-1099-708a-b6ac-78060147b038', 'kana': '', 'name': ''}"
+    },
+    "/api/study/courses/python_short_ar": {
+      "ok": true,
+      "status": 200,
+      "data_type": "dict",
+      "sample": "{'basic_section': {'course_id': 'python_short_ar', 'id': 106}, 'course': {'description': 'Pythonを学ぶ', 'id': 'python_short_ar', 'is_trial': False, 'lang_set': 'python+', 'name': 'Python コース'}}"
+    },
+    "/api/study/students/courses/python_short_ar/diamond": {
+      "ok": true,
+      "status": 200,
+      "data_type": "int",
+      "sample": "15"
+    },
+    "/api/study/students/courses/python_short_ar": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/students/courses/python_short_ar was not found'}"
+    },
+    "/api/study/students/diamonds": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/students/diamonds was not found'}"
+    },
+    "/api/study/diamonds": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/diamonds was not found'}"
+    },
+    "/api/study/students/progress": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/students/progress was not found'}"
+    },
+    "/api/study/progress": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/progress was not found'}"
+    },
+    "/api/study/sections/106": {
+      "ok": true,
+      "status": 200,
+      "data_type": "dict",
+      "sample": "{'chapters': [{'description': 'مرحبًا بك في عالم البرمجة! في هذا الفصل، سنتعلم البرمجة معًا بطريقة ممتعة. سنبدأ بسؤال: “ماذا يمكن أن تفعل البرمجة؟” ثم نتدرج إلى كتابة برنامجك الخاص لعرض النصوص على الش"
+    },
+    "/api/study/sections/106/chapters": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/sections/106/chapters was not found'}"
+    },
+    "/api/study/students/sections/106/chapters": {
+      "ok": true,
+      "status": 200,
+      "data_type": "list",
+      "sample": "[{'best_correct_count': 6, 'chapter_id': 511001, 'completed_at': '2026-10-28T20:00:44.907+09:00', 'diamond': 5, 'started_at': '2026-10-28T20:00:17.035+09:00'}, {'best_correct_count': 9, 'chapter_id': "
+    },
+    "/api/study/students/chapters": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/students/chapters was not found'}"
+    },
+    "/api/courses/python_short_ar": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/api/courses/python_short_ar was not found'}"
+    },
+    "/api/students/me": {
+      "ok": false,
+      "status": 404,
+      "data_type": "dict",
+      "sample": "{'code': 404, 'message': 'path /api/study/api/students/me was not found'}"
+    }
+  },
+  "captured_apis": [
+    {
+      "url": "https://me-portal.qureo.education/assets/course-permissions-C_L7yXOh.js",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512055841259520/envelope/?sentry_version=7&sentry_key=44772ac81975b128ace4b5d32ebf28df&sentry_client=sentry.javascript.react%2F10.51.0",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/pattern_dot.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512055841259520/envelope/?sentry_version=7&sentry_key=44772ac81975b128ace4b5d32ebf28df&sentry_client=sentry.javascript.react%2F10.51.0",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512055841259520/envelope/?sentry_version=7&sentry_key=44772ac81975b128ace4b5d32ebf28df&sentry_client=sentry.javascript.react%2F10.51.0",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_minecraft.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_visual.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_pattern.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_typing.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_text.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512055841259520/envelope/?sentry_version=7&sentry_key=44772ac81975b128ace4b5d32ebf28df&sentry_client=sentry.javascript.react%2F10.51.0",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512055841259520/envelope/?sentry_version=7&sentry_key=44772ac81975b128ace4b5d32ebf28df&sentry_client=sentry.javascript.react%2F10.51.0",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://me-tp.qureo.education/course/python_short_ar",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-tp.qureo.education/api/study/students/me",
+      "status": 307,
+      "data": null
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512044405882880/envelope/?sentry_key=bc3eb03273e4e77a0d125e1ed4315e77&sentry_version=7&sentry_client=sentry.javascript.react%2F7.120.4",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://me-tp.qureo.education/oauth2/refresh?redirect_url=%2Fapi%2Fstudy%2Fstudents%2Fme&fallback_url=https%3A%2F%2Fme-tp.qureo.education%2Flogin%3Freferer%3Dhttps%253A%252F%252Fme-tp.qureo.education%252Fcourse%252Fpython_short_ar",
+      "status": 307,
+      "data": null
+    },
+    {
+      "url": "https://me-tp.qureo.education/api/study/students/me",
+      "status": 303,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/assets/course-permissions-C_L7yXOh.js",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/pattern_dot.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512055841259520/envelope/?sentry_version=7&sentry_key=44772ac81975b128ace4b5d32ebf28df&sentry_client=sentry.javascript.react%2F10.51.0",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_minecraft.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_visual.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_text.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_typing.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://me-portal.qureo.education/images/courses/thum_card_pattern.webp",
+      "status": 200,
+      "data": null
+    },
+    {
+      "url": "https://o965556.ingest.us.sentry.io/api/4512044405882880/envelope/?sentry_key=bc3eb03273e4e77a0d125e1ed4315e77&sentry_version=7&sentry_client=sentry.javascript.react%2F7.120.4",
+      "status": 200,
+      "data": {}
+    },
+    {
+      "url": "https://me-tp.qureo.education/api/study/students/me",
+      "status": 200,
+      "data": {
+        "accept_language": "ar",
+        "course_code": "python_short_ar",
+        "id": "01997bef-1099-708a-b6ac-78060147b038",
+        "kana": "",
+        "name": ""
+      }
+    },
+    {
+      "url": "https://me-tp.qureo.education/api/study/students/courses",
+      "status": 200,
+      "data": [
+        {
+          "description": "Pythonを学ぶ",
+          "id": "python_short_ar",
+          "is_trial": false,
+          "lang_set": "python+",
+          "name": "Python コース"
+        }
+      ]
+    },
+    {
+      "url": "https://me-tp.qureo.education/api/study/courses/python_short_ar",
+      "status": 200,
+      "data": {
+        "basic_section": {
+          "course_id": "python_short_ar",
+          "id": 106
+        },
+        "course": {
+          "description": "Pythonを学ぶ",
+          "id": "python_short_ar",
+          "is_trial": false,
+          "lang_set": "python+",
+          "name": "Python コース"
+        }
+      }
+    },
+    {
+      "url": "https://me-tp.qureo.education/api/study/students/courses/python_short_ar/diamond",
+      "status": 200,
+      "data": 15
+    }
+  ]
+}
