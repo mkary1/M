@@ -3,6 +3,8 @@ on:
   push:
     paths:
       - 'qureo.zip'
+  workflow_dispatch: # ده السطر اللي هيخلينا نشغله يدوياً
+
 jobs:
   extract:
     runs-on: ubuntu-latest
