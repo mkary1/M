@@ -1,0 +1,50 @@
+# Environment variables & secrets
+.env
+.env.local
+*.env
+*.key
+*.pem
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# SQLite lock and temporary files (keep answers.db tracked)
+data/*.sqlite
+data/*.sqlite3
+data/*.db-shm
+data/*.db-wal
+data/*.db-journal
+
+# Screenshots and logs
+screenshots/*
+!screenshots/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Web build / static
+node_modules/
+dist/
+build/
+
+# Local logs and scratch scripts
+*.log
+firebase-debug.log
+scratch/

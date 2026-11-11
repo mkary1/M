@@ -1,0 +1,46 @@
+# Version control
+.git/
+.gitignore
+
+# IDEs & System files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Virtual environments (VERY IMPORTANT: Do not copy Windows venv to Linux container)
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Temporary logs & debug files
+*.log
+firebase-debug.log
+logs/*.log
+screenshots/*.png
+
+# Local development test scripts
+scratch/
+run_bot.bat
+
+# Web & Node artifacts (if any)
+node_modules/
+public/
+netlify/
+dist/
+build/
+
+# Documentation
+README.md
+DEPLOYMENT.md
