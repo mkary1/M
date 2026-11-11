@@ -1,0 +1,320 @@
+{
+  "success": true,
+  "data": {
+    "chapter": {
+      "id": 95,
+      "unit_id": 21,
+      "subject_id": 7,
+      "name": "محاكاة رحلة الحياة - النجاة المالية",
+      "is_completed": true,
+      "cleared_block_ids": [],
+      "genai_usage": {}
+    },
+    "blocks": [
+      {
+        "id": 9844,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 1,
+        "type": "dialogue",
+        "content": "يا رينو. على مدى الجلسات القليلة الماضية، تعلّمت كل أنواع الأشياء، إدارة المال كل شهر، والادّخار للمستقبل، والتحضير لـ&#34;ماذا لو&#34;، وحتى العقود والائتمان. لكن بصراحة، هل أستطيع أنا، عندما أكبر، استخدام كل هذا بشكل صحيح فعليًا؟ أنا قلق قليلًا أنه سيظل مجرد معلومات أحفظها دون أن أتمكن من تطبيقها.",
+        "character_id": 3,
+        "variant_id": 29,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 29,
+          "character_id": 3,
+          "name": "anxious",
+          "image": "Ren_03_anxious.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9845,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 2,
+        "type": "dialogue",
+        "content": "هذا القلق إدراك مهم فعلًا، يا آدم. المعرفة تصبح ملكك فعليًا فقط بمجرد أن تستطيع استخدامها. فاليوم، لنجرّب أن نلمح قليلًا إلى المستقبل.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9846,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 3,
+        "type": "dialogue",
+        "content": "ما أعددته هو &#34;محاكي الحياة الافتراضي&#34;. بمجرد أن تدخل هذه المساحة الافتراضية، تصبح &#34;نفسك في المستقبل&#34; وتمشي عبر الحياة بالترتيب، بدءًا من عمر ٢٢ سنة، أول سنة لك كبالغ عامل. كل مرة يظهر فيها مشهد بقرار متعلّق بالمال، تستخدم ما تعلمته وتختار بنفسك.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9847,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 4,
+        "type": "dialogue",
+        "content": "لم أتخيّل حياتي الخاصة بشكل ملموس من قبل، لكنني أشعر بحماس نوعًا ما!",
+        "character_id": 3,
+        "variant_id": 36,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 36,
+          "character_id": 3,
+          "name": "happy",
+          "image": "Ren_01_happy.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9848,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 5,
+        "type": "dialogue",
+        "content": "تحصل على وظيفة، وتبدأ العيش بمفردك، ثم الزواج، والسكن، وتربية الأطفال، ويومًا ما، حلمك، محلك الخاص. عند كل من هذه المحطات، ينتظر خيار مهم متعلّق بالمال.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9849,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 6,
+        "type": "dialogue",
+        "content": "أرى. كنفسي في المستقبل، إذا حكمت على شيء واحد في كل مرة باستخدام المعرفة التي تعلمتها، يجب أن أقترب من حلمي أيضًا بالتأكيد!",
+        "character_id": 3,
+        "variant_id": 36,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 36,
+          "character_id": 3,
+          "name": "happy",
+          "image": "Ren_01_happy.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9850,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 7,
+        "type": "dialogue",
+        "content": "المعرفة وطرق التفكير التي حصلت عليها حتى الآن ستساعدك مشهدًا بمشهد. نظّمت الأهم منها، المفيدة لقرارات اليوم، بحسب مشهد &#34;متى تستخدمها&#34;. لننظر فيها قبل أن نبدأ.",
+        "character_id": 4,
+        "variant_id": 54,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 54,
+          "character_id": 4,
+          "name": "smile",
+          "image": "Finn_02_smile.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9851,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 8,
+        "type": "image",
+        "content": null,
+        "character_id": null,
+        "variant_id": null,
+        "image": "image_3_12_1_ar.png",
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9852,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 9,
+        "type": "dialogue",
+        "content": "واو! عناصر معرفة تشجّع حياتي. من الأفضل أن أتحقّق منها حتى أستطيع تطبيقها فورًا عندما أواجه مواقف أحتاجها فيها.",
+        "character_id": 3,
+        "variant_id": 36,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 36,
+          "character_id": 3,
+          "name": "happy",
+          "image": "Ren_01_happy.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 9853,
+        "chapter_id": 95,
+        "subject_id": 7,
+        "sort_order": 10,
+        "type": "dialogue",
+        "content": "هذه هي الروح! جرّب استخدامها واحدة تلو الأخرى، وسترى كيف أن المعرفة التي كانت متفرّقة تتصل ضمن الحياة اليومية. فإلى آدم المستقبل، مشهدك الأول هو عمر ٢٢ سنة، صباح أول سنة لك كبالغ عامل. انطلق!",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:16Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "success": true,
+  "data": {
+    "chapter": {
+      "id": 105,
+      "unit_id": 22,
+      "subject_id": 7,
+      "name": "محاكاة رائد الأعمال - من الفكرة إلى المشروع التجاري",
+      "is_completed": true,
+      "cleared_block_ids": [],
+      "genai_usage": {}
+    },
+    "blocks": [
+      {
+        "id": 10782,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 1,
+        "type": "dialogue",
+        "content": "يا رينو، تعلمنا كثيرًا عن بدء مشروع تجاري حتى هذه النقطة. كيفية تحويل فكرة إلى مشروع، وكيفية تجميع الآلية (نموذج العمل)، وحتى كيفية قراءة التكاليف والربح. في رأسي، أشعر أنني فهمت الكثير. ...لكن بطريقة ما، أشعر أن هناك فرقًا كبيرًا بين امتلاك المعرفة بشكل غامض فقط والقدرة على تطبيقها فعليًا.",
+        "character_id": 3,
+        "variant_id": 42,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 42,
+          "character_id": 3,
+          "name": "thinking",
+          "image": "Ren_12_thinking.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10783,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 2,
+        "type": "dialogue",
+        "content": "لمست نقطة حادة يا آدم. بدء مشروع تجاري هو بالضبط هناك. مجرد امتلاك المعرفة لا يعني أن شيئًا قد بدأ بعد. جرّب، وتأكّد من النتائج، وقم بالتحسينات. فقط بتكرار هذه العملية يقوم مشروع تجاري فعليًا.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10784,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 3,
+        "type": "dialogue",
+        "content": "فاليوم، حضّرت تدريبًا يمكنك فيه التفكير فعليًا، والحكم بنفسك، والخطو خلال مراحل بدء مشروع تجاري - ليس فقط في رأسك. إنه &#39;محاكي بدء المشاريع الافتراضي&#39;. مساحة افتراضية مبنية داخل الواقع الافتراضي. في مركزها مكان يُسمّى &#39;مركز بدء المشاريع&#39;.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10785,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 4,
+        "type": "dialogue",
+        "content": "مركز بدء المشاريع هو قاعدة يتجمّع فيها أشخاص يهدفون لبدء مشاريع تجارية، يعملون على مشاريعهم الخاصة، ويدعمون بعضهم بعضًا. أحيانًا يعطي &#39;مرشد&#39; كبير خبِر بدء مشروع تجاري من قبل نصيحة عن كيفية المضي قدمًا. في العالم الحقيقي أيضًا، توجد قواعد يتجمّع فيها رواد أعمال كهؤلاء في كل مكان في العالم. ما أنت على وشك دخوله يا آدم هو مركز بدء مشاريع في مساحة افتراضية يعيد إنشاء ذلك داخل الواقع الافتراضي.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10786,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 5,
+        "type": "dialogue",
+        "content": "أنت أيضًا يا آدم، ستحصل على مكانك الخاص في زاوية من هذا مركز بدء المشاريع وتتحرك كرائد أعمال واحد. ستتقدّم بيديك الخاصتين، وصولًا إلى تنمية فكرة واحدة إلى مشروع تجاري حقيقي.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10787,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 6,
+        "type": "dialogue",
+        "content": "أنا، أدير مشروعًا تجاريًا بيديّ! أن أستطيع اختبار كم تتشكّل فكرة واحدة - هذا هو الأفضل. أنا متحمس!",
+        "character_id": 3,
+        "variant_id": 36,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 36,
+          "character_id": 3,
+          "name": "happy",
+          "image": "Ren_01_happy.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10788,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 7,
+        "type": "dialogue",
+        "content": "<p>هذه هي الروح المطلوبة. يبدأ من &#34;لكان من الجيد لو وُجد هذا&#34; واحد. يا آدم، هل هناك شيء قريب منك تشعر أنه سيكون من الجيد لو كان هكذا؟ أولًا، فلنتخيّل فكرة واحدة تكون نقطة الانطلاق.</p>",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": "2026-09-09T10:29:05Z",
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10789,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 8,
+        "type": "dialogue",
+        "content": "همم... آه، إذا كان الأمر عن كرة القدم، هناك شيء كنت أتساءل عنه منذ زمن طويل. بعد التمرين، كنت دائمًا منزعجًا من كيفية تنظيف حذاء كرة القدم المُغطى بالطين بطريقة ما في مكان لا يمكنني حتى استخدام الماء فيه. ما رأيك أن أستغل هذه الفرصة لأشكّل ذلك &#34;كان ليكون من الجيد&#34; بيديّ؟",
+        "character_id": 3,
+        "variant_id": 31,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 31,
+          "character_id": 3,
+          "name": "curious",
+          "image": "Ren_08_curious.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10790,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 9,
+        "type": "dialogue",
+        "content": "<p>جميل. فلنجعل ذلك &#34;لكان من الجيد لو وُجد هذا&#34; نقطة الانطلاق من هنا. حدّد لمن تُقدّمه، وتأكّد من وجود أشخاص يريدونه فعلًا، واختبر بشكل صغير. صمّم الآلية، اقرأ التكاليف والربح، وحدّد حتى استخدام الربح المتبقي. في كل من تلك المفترقات، أي طريق تختاره يُحدَّد بواسطتك أنت يا آدم.</p>",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": "2026-09-09T10:30:27Z",
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10791,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 10,
+        "type": "dialogue",
+        "content": "أرى. بدء مشروع تجاري ليس حفظ إجابة صحيحة واحدة - إنه الاختيار بنفسك في كل مشهد. أشعر أن هناك شيئًا لا تراه إلا بعد التجربة.",
+        "character_id": 3,
+        "variant_id": 42,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 42,
+          "character_id": 3,
+          "name": "thinking",
+          "image": "Ren_12_thinking.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10792,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 11,
+        "type": "dialogue",
+        "content": "بالضبط. والأدلة للاختيار مُجمَّعة بالفعل بداخلك يا آدم. رتّبت ما تعلمته حتى الآن، حسب المشهد الذي تستخدم فيه كل واحد. عندما تكون تائهًا في أي طريق تسلكه، تذكّر هذا.",
+        "character_id": 4,
+        "variant_id": 49,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 4,
+          "name": "رينو",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 49,
+          "character_id": 4,
+          "name": "explaining",
+          "image": "Finn_13_explaining.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10793,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 12,
+        "type": "image",
+        "content": null,
+        "character_id": null,
+        "variant_id": null,
+        "image": "image_4_16_1_ar.png",
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "question_skill_mappings": null
+      },
+      {
+        "id": 10794,
+        "chapter_id": 105,
+        "subject_id": 7,
+        "sort_order": 13,
+        "type": "dialogue",
+        "content": "مرتَّبة بهذه الطريقة، أشعر فعلًا أن هذه المنظورات تراكمت بداخلي أيضًا. حسنًا، سأبذل قصارى جهدي لجعل هذه الفكرة تعمل كمشروع تجاري!",
+        "character_id": 3,
+        "variant_id": 36,
+        "image": null,
+        "video": null,
+        "question_id": null,
+        "created_at": "2026-09-08T01:25:22Z",
+        "updated_at": null,
+        "character": {
+          "id": 3,
+          "name": "آدم",
+          "language": "ar",
+          "is_active": true,
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "variant": {
+          "id": 36,
+          "character_id": 3,
+          "name": "happy",
+          "image": "Ren_01_happy.png",
+          "created_at": "2026-09-08T01:22:13Z",
+          "updated_at": null
+        },
+        "question_skill_mappings": null
+      }
+    ]
+  }
+}
